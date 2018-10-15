@@ -1,0 +1,25 @@
+h1 {
+   font-family: serif;
+   font-size: 45px;
+   color: hotpink;
+}
+
+h2 {
+   font-family: serif;
+   font-size: 35px;
+   color: deeppink;
+}
+
+div {
+   font-size: 25px;
+   color: white;
+}
+
+p {
+   font-size: 25px;
+   color: white;
+}
+
+body {
+   background-color: black;
+}
